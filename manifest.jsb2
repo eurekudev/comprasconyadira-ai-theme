@@ -1,0 +1,22 @@
+{
+	"projectName": "comprasconyadira-ai-theme",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "comprasconyadira-ai-theme CSS",
+		"file": "comprasconyadira-ai-theme.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "comprasconyadira-ai-theme JS",
+		"file": "comprasconyadira-ai-theme.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
