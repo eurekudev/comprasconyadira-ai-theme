@@ -2,7 +2,7 @@
 
 @section('aimeos_header')
     <?= $aiheader['locale/select'] ?? '' ?>
-    <?= $aiheader['basket/mini'] ?? '' ?>
+		<?= $aiheader['basket/mini'] ?? '' ?>
     <?= $aiheader['catalog/search'] ?? '' ?>
     <?= $aiheader['catalog/filter'] ?? '' ?>
     <?= $aiheader['catalog/tree'] ?? '' ?>
@@ -12,7 +12,7 @@
 @stop
 
 @section('aimeos_head_basket')
-    <?= $aibody['basket/mini'] ?? '' ?>
+    <!-- ?= $aibody['basket/mini'] ?? '' ? -->
 @stop
 
 @section('aimeos_head_nav')
