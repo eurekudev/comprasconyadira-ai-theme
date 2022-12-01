@@ -73,17 +73,17 @@
 						<div class="row">
 							<div class="col-sm-6 footer-left">
 								<div class="footer-block">
-									<h2 class="pb-3">{{ __( 'LEGAL' ) }}</h2>
-									<p><a href="#">{{ __( 'Terms & Conditions' ) }}</a></p>
-									<p><a href="#">{{ __( 'Privacy Notice' ) }}</a></p>
-									<p><a href="#">{{ __( 'Imprint' ) }}</a></p>
+									<!-- <h2 class="pb-3">{{ __( 'LEGAL' ) }}</h2> -->
+									<!-- <p><a href="#">{{ __( 'Terms & Conditions' ) }}</a></p> -->
+									<!-- <p><a href="#">{{ __( 'Privacy Notice' ) }}</a></p> -->
+									<!-- <p><a href="#">{{ __( 'Imprint' ) }}</a></p> -->
 								</div>
 							</div>
 							<div class="col-sm-6 footer-center">
 								<div class="footer-block">
-									<h2 class="pb-3">{{ __( 'ABOUT US' ) }}</h2>
-									<p><a href="#">{{ __( 'Contact us' ) }}</a></p>
-									<p><a href="#">{{ __( 'Company' ) }}</a></p>
+									<!-- <h2 class="pb-3">{{ __( 'ABOUT US' ) }}</h2> -->
+									<!-- <p><a href="#">{{ __( 'Contact us' ) }}</a></p> -->
+									<!-- <p><a href="#">{{ __( 'Company' ) }}</a></p> -->
 								</div>
 							</div>
 						</div>
@@ -94,10 +94,10 @@
 							    <img src="{{ asset( 'aimeos/' . ( app( 'aimeos.context' )->get()->locale()->getSiteItem()->getLogo() ?: '../vendor/shop/themes/comprasconyadira-ai-theme/assets/logo.png' ) ) }}" height="40" title="Logo">
 							</a>
 							<div class="social">
-								<p><a href="#" class="sm facebook" title="Facebook" rel="noopener">Facebook</a></p>
-								<p><a href="#" class="sm twitter" title="Twitter" rel="noopener">Twitter</a></p>
-								<p><a href="#" class="sm instagram" title="Instagram" rel="noopener">Instagram</a></p>
-								<p><a href="#" class="sm youtube" title="Youtube" rel="noopener">Youtube</a></p>
+								<!-- <p><a href="#" class="sm facebook" title="Facebook" rel="noopener">Facebook</a></p> -->
+								<!-- <p><a href="#" class="sm twitter" title="Twitter" rel="noopener">Twitter</a></p> -->
+								<!-- <p><a href="#" class="sm instagram" title="Instagram" rel="noopener">Instagram</a></p> -->
+								<!-- <p><a href="#" class="sm youtube" title="Youtube" rel="noopener">Youtube</a></p> -->
 							</div>
 						</div>
 					</div>
