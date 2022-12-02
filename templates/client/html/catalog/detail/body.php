@@ -255,7 +255,7 @@ $reqstock = (int) $this->config( 'client/html/basket/require-stock', true );
 							<div class="addbasket">
 
 								<div class="input-group">
-									<a class="btn btn-success btn-lg btn-action" rel="noopener" style="background-color: #28a745!important;color:white;" href="https://wa.me/?phone=5355959658&text=Hola" title="whatsapp" target="_blank">
+									<a class="btn btn-success btn-lg btn-action" rel="noopener" style="background-color: #28a745!important;color:white;" href="https://api.whatsapp.com/send?phone=5355959658&text=hola,%20qué%20tal?" title="whatsapp" target="_blank">
 										CONTACTAR AL WHATSAPP
 									</a>
 								</div>
