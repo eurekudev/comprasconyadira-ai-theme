@@ -13,6 +13,7 @@
 			<link type="text/css" rel="stylesheet" href="{{ asset('vendor/shop/themes/comprasconyadira-ai-theme/app.css?v=' . config( 'shop.version', 1 ) ) }}">
 		@endif
 		<link type="text/css" rel="stylesheet" href="{{ asset('vendor/shop/themes/comprasconyadira-ai-theme/aimeos.css?v=' . config( 'shop.version', 1 ) ) }}" />
+		<link rel="stylesheet" href="{{ asset('vendor/shop/themes/comprasconyadira-ai-theme/font-awesome/4.7.0/css/font-awesome.min.css') }}">
 
 		@yield('aimeos_header')
 
@@ -71,19 +72,20 @@
 				<div class="row">
 					<div class="col-md-8">
 						<div class="row">
-							<div class="col-sm-6 footer-left">
+							<div class="col-6 footer-left">
 								<div class="footer-block">
-									<!-- <h2 class="pb-3">{{ __( 'LEGAL' ) }}</h2> -->
-									<!-- <p><a href="#">{{ __( 'Terms & Conditions' ) }}</a></p> -->
-									<!-- <p><a href="#">{{ __( 'Privacy Notice' ) }}</a></p> -->
-									<!-- <p><a href="#">{{ __( 'Imprint' ) }}</a></p> -->
+									<a href="https://chat.whatsapp.com/CR3H64w22Fo1RusfcYKEyd" target="_blank" class="social">
+										<i class="fa fa-whatsapp"></i>
+										<span>WhatsApp</span>
+									</a>
 								</div>
 							</div>
-							<div class="col-sm-6 footer-center">
+							<div class="col-6 footer-center">
 								<div class="footer-block">
-									<!-- <h2 class="pb-3">{{ __( 'ABOUT US' ) }}</h2> -->
-									<!-- <p><a href="#">{{ __( 'Contact us' ) }}</a></p> -->
-									<!-- <p><a href="#">{{ __( 'Company' ) }}</a></p> -->
+									<a href="https://t.me/+zxT7EPqjpsg5ZTZh" target="_blank" class="social">
+										<i class="fa fa-telegram"></i>
+										<span>Telegram</span>
+									</a>
 								</div>
 							</div>
 						</div>
@@ -93,12 +95,12 @@
 							<a class="logo" href="/" title="Logo">
 							    <img src="{{ asset( 'aimeos/' . ( app( 'aimeos.context' )->get()->locale()->getSiteItem()->getLogo() ?: '../vendor/shop/themes/comprasconyadira-ai-theme/assets/logo.png' ) ) }}" height="40" title="Logo">
 							</a>
-							<div class="social">
-								<!-- <p><a href="#" class="sm facebook" title="Facebook" rel="noopener">Facebook</a></p> -->
-								<!-- <p><a href="#" class="sm twitter" title="Twitter" rel="noopener">Twitter</a></p> -->
-								<!-- <p><a href="#" class="sm instagram" title="Instagram" rel="noopener">Instagram</a></p> -->
-								<!-- <p><a href="#" class="sm youtube" title="Youtube" rel="noopener">Youtube</a></p> -->
-							</div>
+							<!-- <div class="social"> -->
+							<!-- 	<p><a href="#" class="sm facebook" title="Facebook" rel="noopener">Facebook</a></p> -->
+							<!-- 	<p><a href="#" class="sm twitter" title="Twitter" rel="noopener">Twitter</a></p> -->
+							<!-- 	<p><a href="#" class="sm instagram" title="Instagram" rel="noopener">Instagram</a></p> -->
+							<!-- 	<p><a href="#" class="sm youtube" title="Youtube" rel="noopener">Youtube</a></p> -->
+							<!-- </div> -->
 						</div>
 					</div>
 				</div>

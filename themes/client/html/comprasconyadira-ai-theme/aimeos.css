@@ -570,6 +570,33 @@ footer .footer-right{
 	content:"\f62b";
 }
 
+.footer-block .social .fa {
+  padding: 10px;
+  font-size: 25px;
+  text-align: center;
+  text-decoration: none;
+	border-radius: 50%;
+}
+
+.footer-block .social {
+	color: white;  
+}
+
+.footer-block .social .fa:hover {
+	opacity: 0.7;
+}
+
+.footer-block .social .fa-telegram {
+  background: #38bdf8;
+  color: white;
+}
+
+.footer-block .social .fa-whatsapp {
+  background: #34d399;
+  color: white;
+}
+
+
 @media (min-width:768px) {
 
 	footer .footer-left,
