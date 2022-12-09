@@ -45,8 +45,44 @@
 }
 
 .catalog-who-i-am .poster-img {
+	max-width: 21rem;
+}
+
+.catalog-who-i-am h5.title {
+	font-family: 'Pacifico', cursive;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 1.6rem;
+	color: var(--ai-warning) !important;
+}
+
+.catalog-who-i-am h1 {
+	font-family: 'Nunito', sans-serif;
+	font-weight: 700;
+	font-size: 2.435rem;
+}
+
+.catalog-who-i-am p {
+	text-align: justify;	
+}
+
+
+/* .catalog-who-i-am h5.title:after { */
+/*     position: absolute; */
+/*     content: ""; */
+/*     width: 45px; */
+/*     height: 2px; */
+/*     top: 50%; */
+/*     right: -55px; */
+/*     margin-top: -1px; */
+/*     background: var(--ai-warning); */
+/* } */
+/*  */
+
+.catalog-who-i-am .poster-img {
 	max-width: 23.75rem;
 }
+
 
 .catalog-how-to-do {
 	display: flex;
@@ -75,7 +111,7 @@
   	width: 17.5rem;
 		height: 32.3rem;
   	padding: 4rem 1rem 7rem 1rem;
-  	background-color: var(--bs-yellow);
+  	background-color: var(--bs-gray-100);
   	position: relative;
 }
 
@@ -85,8 +121,8 @@
     display: block;
     width: 0px;
     height: 0px;
-    border-top: 40px solid var(--bs-green);
-    border-right: 40px solid var(--bs-green);
+    border-top: 40px solid var(--bs-yellow);
+    border-right: 40px solid var(--bs-yellow);
     border-left: 40px solid var(--ai-bg);
     border-bottom: 40px solid var(--ai-bg);
     bottom: 0px;
@@ -104,13 +140,18 @@
     background-color: skyblue;
     top: 0px;
     right: 0px;
-    border-bottom: 25px solid var(--bs-green);
-    border-left: 25px solid var(--bs-green);
+    border-bottom: 25px solid var(--bs-yellow);
+    border-left: 25px solid var(--bs-yellow);
     border-right: 25px solid var(--ai-bg);
     border-top: 25px solid var(--ai-bg);
     position: absolute;
     filter: drop-shadow(-5px 5px 3px rgba(0, 0, 0, 0.5));
 }
+
+.catalog-how-to-do .card .fa {
+	color: var(--bs-yellow);
+}
+
 
 
 

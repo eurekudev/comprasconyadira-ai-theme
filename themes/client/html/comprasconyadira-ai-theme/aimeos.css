@@ -31,6 +31,46 @@
 		url('assets/bootstrap-icons.woff') format('woff');
 }
 
+@font-face {
+	font-family: 'Pacifico', cursive;
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+  src: url("assets/Pacifico-Regular.ttf") format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+  src: url("assets/Nunito-Regular.ttf") format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito', sans-serif;
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+  src: url("assets/Nunito-Italic.ttf") format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+  src: url("assets/Nunito-Bold.ttf") format('truetype');
+}
+
+@font-face {
+	font-family: 'Nunito', sans-serif;
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+  src: url("assets/Nunito-BoldItalic.ttf") format('truetype');
+}
+
 
 @keyframes FadeIn {
 	0% { opacity: 0 }

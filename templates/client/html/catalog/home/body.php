@@ -143,12 +143,12 @@ $lazy = false;
 		<img class="poster-img" src="/vendor/shop/themes/comprasconyadira-ai-theme/assets/home_info/poster.gif" />
 	</div>
 	<div>
-		<h5>¿Quien soy?</h5>
+		<h5 class="title">¿Quien soy?</h5>
 		<h1>Bienvenidos a la Tienda en Línea Compras con Yadira</h1>
-		<p>Soy la Agente Comercial, encargada de gestionar su pedido, encargada de guiarlo en todo el proceso de compra
-			desde que usted solicita la mercancía hasta que llegue a sus manos. Ofertamos una amplia variedad de productos
-			desde prendas de vestir, comestibles, aseo, cosméticos, electrodomésticos, dispositivos móviles, motos eléctricas
-			y bicicleta eléctrica.
+		<p>Soy la Agente Comercial, encargada de gestionar su pedido y guiarlo en todo el proceso de compra, desde que usted
+			solicita la mercancía hasta que llegue a sus manos. Ofertamos una amplia variedad de productos desde prendas de
+			vestir, comestibles, aseo, cosméticos, electrodomésticos, dispositivos móviles, motos eléctricas y bicicleta
+			eléctrica.
 		</p>
 	</div>
 </section>
@@ -159,9 +159,10 @@ $lazy = false;
 			<i class="fa fa-3x fa-list"></i>
 			<h2>Proceso</h2>
 		</div>
-		<p>El proceso de compra inicia en la recolección de toda la información referente a su pedido, datos personales y
-			dirección de entrega; por último se tramita esta información a nuestros colaboradores en Panamá, encargados de
-			comprar la mercancía de su elección.</p>
+		<p>El proceso de compra inicia en la recolección de toda la información referente a su pedido: datos personales,
+			teléfono, dirección de entrega y la transferencia del monto total en MLC o en el equivalente en CUP. Por último se
+			tramita esta información a nuestros colaboradores en Panamá, encargados de comprar la mercancía de su elección.
+		</p>
 	</div>
 
 	<div class="card">
