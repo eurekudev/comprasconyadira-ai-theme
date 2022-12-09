@@ -36,10 +36,89 @@
 	width: 12rem;
 }
 
+.catalog-who-i-am {
+	margin-top: 4.38rem;
+	flex-direction: column;
+	display: flex;
+	gap: 5rem;
+	align-items: center;
+}
+
+.catalog-who-i-am .poster-img {
+	max-width: 23.75rem;
+}
+
+.catalog-how-to-do {
+	display: flex;
+	flex-direction: column;
+	gap:25px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+
+.catalog-how-to-do .card .header {
+	display: flex;
+	align-items: center;
+	gap:0.7rem;
+}
+
+.catalog-how-to-do .card p {
+	padding-top: 10px;
+	text-align: justify;	
+}
+
+
+
+.catalog-how-to-do .card {
+	  display: inline-block;
+  	width: 17.5rem;
+  	padding: 4rem 1rem 7rem 1rem;
+  	background-color: var(--bs-yellow);
+  	position: relative;
+}
+
+
+.catalog-how-to-do .card:before {
+    content: "";
+    display: block;
+    width: 0px;
+    height: 0px;
+    border-top: 40px solid var(--bs-green);
+    border-right: 40px solid var(--bs-green);
+    border-left: 40px solid var(--ai-bg);
+    border-bottom: 40px solid var(--ai-bg);
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+    /* filter: drop-shadow(7px -7px 5px rgba(0, 0, 0, 0.5)); */
+    margin-right: 10%;
+}
+
+.catalog-how-to-do .card:after {
+    content: "";
+    display: block;
+    width: 0px;
+    height: 0px;
+    background-color: skyblue;
+    top: 0px;
+    right: 0px;
+    border-bottom: 25px solid var(--bs-green);
+    border-left: 25px solid var(--bs-green);
+    border-right: 25px solid var(--ai-bg);
+    border-top: 25px solid var(--ai-bg);
+    position: absolute;
+    /* filter: drop-shadow(-5px 5px 3px rgba(0, 0, 0, 0.5)); */
+}
+
+
+
+
 @media (min-width:576px) {
 	.catalog-home .stage-text {
 		max-width: 66%;
 	}
+
 }
 
 @media (min-width:768px) {
@@ -47,6 +126,7 @@
 		max-width: 50%;
 		font-size: 225%;
 	}
+
 }
 
 @media (min-width:992px) {
@@ -56,6 +136,15 @@
 	.catalog-home .stage-text {
 		max-width: 40%;
 	}
+
+	.catalog-who-i-am {
+		flex-direction: row;
+	}
+
+	.catalog-how-to-do {
+		flex-direction: row;
+	}
+
 }
 
 @media (min-width:1200px) {
@@ -63,4 +152,9 @@
 		max-width: 35%;
 		font-size: 250%;
 	}
+
+ .catalog-who-i-am {
+		gap:12.5rem;
+	}
+
 }
