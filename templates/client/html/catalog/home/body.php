@@ -189,43 +189,4 @@ $lazy = false;
 		<p>Entregamos el codigo de sumercancía para el rastreo y sequimiento.Una vez realizada la reservacón en el avión o
 			el barco, según el tipo de envío que usted realice. También puede ser usado para futuras reclamaciones. </p>
 	</div>
-
 </section>
-
-<!-- <section class="aimeos container catalog-home-info"> -->
-<!-- 	<div class="row"> -->
-<!-- 		<div class="col d-flex flex-row-reverse"> -->
-<!-- 			<img class="poster-img" src="/vendor/shop/themes/comprasconyadira-ai-theme/assets/home_info/poster.gif" /> -->
-<!-- 		</div> -->
-<!-- 		<div class="col"> -->
-<!-- 			<h5>¿Quien soy?</h5> -->
-<!-- 			<h1 class="mb-4">Bienvenidos a la Tienda en Línea Compras con Yadira</h1> -->
-<!-- 			<p class="mb-4">Soy la Agente Comercial, encargada de gestionar sú pedido,encargada de guiarlo en todo el proceso -->
-<!-- 				de compra desde que usted solicita la mercancía hasta que llegue a sus manos. -->
-<!-- 				Ofertamos una amplia variedad de productos desde prendas de vestir, comestibles,aseo,cosméticos, -->
-<!-- 				electrodomésticos, dispositivos móviles, motorinas y cicicleta eléctrica. -->
-<!-- 			</p> -->
-<!-- 		</div> -->
-<!-- 	</div> -->
-<!-- 	<div class="row"> -->
-<!-- 		<div class="col"> -->
-<!-- 			<div class="card"> -->
-<!-- 				<div class="header"> -->
-<!-- 					<i class="fa fa-3x fa-list"></i> -->
-<!-- 					<h2>Proceso</h2> -->
-<!-- 				</div> -->
-<!-- 				<p>El proceso de compra inicia en la recolección de toda su mercancía, empaquetado y etiquetamos con sus datos -->
-<!-- 					personales; por último se le otorga los códigos de rastero de su mercancía, para su futura hubicación.</p> -->
-<!-- 			</div> -->
-<!--  -->
-<!-- 		</div> -->
-<!-- 		<div class="col"> -->
-<!-- 		</div> -->
-<!-- 		<div class="col"> -->
-<!-- 		</div> -->
-<!-- 		<div class="col"> -->
-<!-- 		</div> -->
-<!--  -->
-<!--  -->
-<!-- 	</div> -->
-<!-- </section> -->

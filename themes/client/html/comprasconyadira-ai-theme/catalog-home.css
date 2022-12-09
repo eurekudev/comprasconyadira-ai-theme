@@ -91,7 +91,7 @@
     bottom: 0px;
     left: 0px;
     position: absolute;
-    /* filter: drop-shadow(7px -7px 5px rgba(0, 0, 0, 0.5)); */
+    filter: drop-shadow(7px -7px 5px rgba(0, 0, 0, 0.5));
     margin-right: 10%;
 }
 
@@ -108,7 +108,7 @@
     border-right: 25px solid var(--ai-bg);
     border-top: 25px solid var(--ai-bg);
     position: absolute;
-    /* filter: drop-shadow(-5px 5px 3px rgba(0, 0, 0, 0.5)); */
+    filter: drop-shadow(-5px 5px 3px rgba(0, 0, 0, 0.5));
 }
 
 
