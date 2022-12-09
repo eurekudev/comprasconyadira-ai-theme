@@ -145,10 +145,10 @@ $lazy = false;
 	<div>
 		<h5>¿Quien soy?</h5>
 		<h1>Bienvenidos a la Tienda en Línea Compras con Yadira</h1>
-		<p>Soy la Agente Comercial, encargada de gestionar sú pedido,encargada de guiarlo en todo el proceso
-			de compra desde que usted solicita la mercancía hasta que llegue a sus manos.
-			Ofertamos una amplia variedad de productos desde prendas de vestir, comestibles,aseo,cosméticos,
-			electrodomésticos, dispositivos móviles, motorinas y cicicleta eléctrica.
+		<p>Soy la Agente Comercial, encargada de gestionar su pedido, encargada de guiarlo en todo el proceso de compra
+			desde que usted solicita la mercancía hasta que llegue a sus manos. Ofertamos una amplia variedad de productos
+			desde prendas de vestir, comestibles, aseo, cosméticos, electrodomésticos, dispositivos móviles, motos eléctricas
+			y bicicleta eléctrica.
 		</p>
 	</div>
 </section>
@@ -159,17 +159,20 @@ $lazy = false;
 			<i class="fa fa-3x fa-list"></i>
 			<h2>Proceso</h2>
 		</div>
-		<p>El proceso de compra inicia en la recolección de toda su mercancía, empaquetado y etiquetamos con sus datos
-			personales; por último se le otorga los códigos de rastero de su mercancía, para su futura hubicación.</p>
+		<p>El proceso de compra inicia en la recolección de toda la información referente a su pedido, datos personales y
+			dirección de entrega; por último se tramita esta información a nuestros colaboradores en Panamá, encargados de
+			comprar la mercancía de su elección.</p>
 	</div>
 
 	<div class="card">
 		<div class="header">
 			<i class="fa fa-3x fa-cart-plus"></i>
-			<h2>Combos</h2>
+			<h2>Nuestos Productos</h2>
 		</div>
-		<p>Ofertamos combos mixto con variedad de productos como son: combos de manicuri, combos de confituras, combos de
-			cumpleaños, combos de aseo, todo por un precio.Conformamos además combos según su petición.</p>
+		<p>Nuestras ofertas se basan en una variedad de productos en nuestros catálogos, cuyos precios principalmente en
+			docenas le da flexibilidad al cliente de elegir y conformar sus propios combos ajustados a sus necesidades,
+			también ofertamos combos sugeridos principalmente por las solicitudes de nuestros clientes que se caracterizan por
+			ser económicos y variados.</p>
 	</div>
 
 	<div class="card">
@@ -177,8 +180,11 @@ $lazy = false;
 			<i class="fa fa-3x fa-plane"></i>
 			<h2>Envíos</h2>
 		</div>
-		<p>Nuetro principal envío es aereo, al realizar la compra y la reservación en el avión, se le otorga los ccódigos de
-			rastreo y las guias, demoran desde 20 días hasta 3 meses, dependiendo de la provincia de destino. </p>
+		<p>Nuestro principal envío es aéreo, aunque dependiendo del producto podemos sugerir el marítimo. Una vez nuestros
+			colaboradores compran sus productos se hace una validación con el cliente de la lista de compras y el peso de los
+			paquetes a enviar; una vez despachado, la entrega en Cuba durará entre 20 días hasta 3 meses, dependiendo de la
+			provincia de destino y de la eficiencia de las instituciones estatales pertinentes como Correos de Cuba o
+			Aerovaradero.</p>
 	</div>
 
 	<div class="card">
@@ -186,7 +192,9 @@ $lazy = false;
 			<i class="fa fa-3x fa-file"></i>
 			<h2>Códigos de rastreo</h2>
 		</div>
-		<p>Entregamos el codigo de sumercancía para el rastreo y sequimiento.Una vez realizada la reservacón en el avión o
-			el barco, según el tipo de envío que usted realice. También puede ser usado para futuras reclamaciones. </p>
+		<p>Nuestros envíos cuentan con códigos de rastreos los cuales se les entrega al cliente una vez validado la lista de
+			compras y pesos de los paquetes a enviar; estos códigos permiten darle más seguridad al cliente del estado de sus
+			paquetes, y en cuanto a perdida o extravíos realizar los reclamos pertinentes para la reposición de su mercancía.
+		</p>
 	</div>
 </section>
