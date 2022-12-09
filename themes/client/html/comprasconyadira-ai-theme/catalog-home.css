@@ -73,6 +73,7 @@
 .catalog-how-to-do .card {
 	  display: inline-block;
   	width: 17.5rem;
+		height: 32.3rem;
   	padding: 4rem 1rem 7rem 1rem;
   	background-color: var(--bs-yellow);
   	position: relative;
